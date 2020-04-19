@@ -2,7 +2,7 @@
 
 This software uses computer vision ideals to detect and track visuals in the video game Garrys Mod
 
-## installation
+## Installation
 
 To run this code you will need to install all dependencies using the batch file (installLibs.bat) provided, as well as the Tesseract
 OCR engine at this link: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe.
