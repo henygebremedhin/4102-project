@@ -7,7 +7,7 @@ This software uses computer vision ideals to detect and track visuals in the vid
 To run this code you will need to install all dependencies using the batch file (installLibs.bat) provided, as well as the Tesseract
 OCR engine executable provided.
 
-Next you must insert the provided file, "CLientScheme.res" into the game files of Gmod. This customizes the hud and turns the background black so Tesseract
+Next you must insert the provided file, "ClientScheme.res" into the game files of Gmod. This customizes the hud and turns the background black so Tesseract
 can recognize the numbers properly.
 
 Lastly you must grab your path to Tesseract.exe, this is almost always in the same place "C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe".
