@@ -51,13 +51,19 @@ Last event is when the characters ammo count reaches a number below 3, then the 
 ## Authors
 
 Mohamad-Salim Merhi - 100977984
+
 Nazimul Hoque - 100974599
+
 Jonathan Lim - 100937925
+
 Henok Gebremedhin - 100982033
 
 ## Credits
 
 name: Hodka
+
 published: May 5, 2014
+
 title: Simulate Python keypresses for controlling a game
+
 link: https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
