@@ -22,7 +22,7 @@ There are 3 main events to test in this program
 ### Event 1 - Optical Tracking
 
 To do an ideal tracking scenario we spawn one enemy from the Garry’s Mod (Gmod) menu which are Prison Guard, and Prison Shotgun Guard. The ideal situation also called for added commands placed into the Gmod console:
-The first will turn off the violence and the second will turn off weapon models for simplicity  Make sure you have your weapon equipped before continuing.
+The first set will turn off the violence and the last will turn off weapon models for simplicity. Make sure you have your weapon equipped before continuing.
 
 violence_ablood 0, violence_agibs 0, violence_hblood 0, violence_hgibs 0, r_drawviewmodel 0
 
