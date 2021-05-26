@@ -56,7 +56,6 @@ Nazimul Hoque - 100974599
 
 Jonathan Lim - 100937925
 
-Henok Gebremedhin - 100982033
 
 ## Credits
 
